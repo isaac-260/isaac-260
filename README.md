@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Isaac
+- 👀 I’m interested in IT
+- 🌱 I’m currently learning Web development
+- 💞️ I’m looking to collaborate on new projects
+- 📫 How to reach me isaac-260@hotmail.com
